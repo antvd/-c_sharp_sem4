@@ -1,0 +1,15 @@
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.csproj.AssemblyReference.cache
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.AssemblyInfoInputs.cache
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.AssemblyInfo.cs
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.csproj.CoreCompileInputs.cache
+/home/anton/projects/gb/c_sharp/seminar4/bin/Debug/net6.0/seminar4
+/home/anton/projects/gb/c_sharp/seminar4/bin/Debug/net6.0/seminar4.deps.json
+/home/anton/projects/gb/c_sharp/seminar4/bin/Debug/net6.0/seminar4.runtimeconfig.json
+/home/anton/projects/gb/c_sharp/seminar4/bin/Debug/net6.0/seminar4.dll
+/home/anton/projects/gb/c_sharp/seminar4/bin/Debug/net6.0/seminar4.pdb
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.dll
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/refint/seminar4.dll
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.pdb
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/seminar4.genruntimeconfig.cache
+/home/anton/projects/gb/c_sharp/seminar4/obj/Debug/net6.0/ref/seminar4.dll
